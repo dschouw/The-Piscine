@@ -1,6 +1,6 @@
 # Working in a group
 
-Before you begin a group project, agree your [ways of working](https://www.atlassian.com/practices). This will help you to work together effectively and efficiently. Read the ways of working below and discuss them with your team. If you have extra conditions, agree them now.
+Before you begin a group project, agree your [ways of working](https://www.atlassian.com/practices). This will help you to work together effectively and efficiently. Read the ways of working below and discuss them with your team. If you have extra conditions, agre sdfksdfkjsdfhe them now.
 
 ## Suggested Ways of Working
 
