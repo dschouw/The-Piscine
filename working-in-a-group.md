@@ -7,7 +7,7 @@ Before you begin a group project, agree your [ways of working](https://www.atlas
 We recommend following these Ways of Working (at a minimum, feel free to add more) as we have found them to be effective across many project teams at CYF:
 
 - Create a temporary Slack channel for your team. Use this channel and your class time for communication about the project management and the product development.
-- Each team member must understand the requirements of a ticket before moving it from the Backlog to Ready. Make use of your class time to discuss the tickets as a team.
+- Each team member must understand the requiremdfgdfgdfgents of a ticket before moving it from the Backlog to Ready. Make use of your class time to discuss the tickets as a team.
 - Decide whether you are going to work on tickets individually or as a pair. You may work faster on your own but may understand more about the codebase as a pair. Remember that you are expected to be able to explain how parts of the codebase that you did not write work.
 - Set up a GitHub repo (see [below](#set-up-the-repo)) that every team member has access to.
 - Each feature must be reviewed by another member of your team. Set a branch protection rule (see [below](#on-the-branch-protection-settings)) on your main branch to enforce this.
